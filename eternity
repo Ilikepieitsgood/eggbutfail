@@ -1,4 +1,4 @@
 while :
 do
-nim r -d:ssl egg.nim
+nim r -d:ssl new.nim
 done
