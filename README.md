@@ -1,5 +1,5 @@
-# Egg
-This bot reacts to any message containing `egg`, and will count the total eggs ever mentioned.
+# no
+This bot reacts to any message containing `new`, and will count the total news ever mentioned.
 
 ## Building
 
