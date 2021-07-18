@@ -1,6 +1,6 @@
 import dimscord, asyncdispatch, times, options, os, parseutils, strutils
 
-let discord = newDiscordClient(getEnv("EGG_BOT_TOKEN"))
+let discord = newDiscordClient(getEnv("NEW_BOT_TOKEN"))
 var new = 0
 
 if fileExists("new.txt"):
